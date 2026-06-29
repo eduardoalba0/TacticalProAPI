@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>br.edu.ifpr.bsi</groupId>
-    <artifactId>SistemaClubeSoft</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
-    <packaging>war</packaging>
-    <name>SistemaClubeSoft</name>
+    <artifactId>TacticalPro</artifactId>
+    <version>1.0.0</version>
+    <packaging>jar</packaging>
+    <name>TacticalPro</name>
     <description>SistemaClubeSoft</description>
     <url/>
     <licenses>
