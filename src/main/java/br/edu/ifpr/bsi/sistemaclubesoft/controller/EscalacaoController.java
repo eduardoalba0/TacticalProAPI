@@ -13,7 +13,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/escalacoes")
-@CrossOrigin(origins = "http://localhost:5173")
+@CrossOrigin(origins = "*")
 public class EscalacaoController {
 
     @Autowired

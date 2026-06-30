@@ -12,6 +12,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/timesAdversarios")
+@CrossOrigin(origins = "*")
 public class TimeAdversarioController {
 
     @Autowired

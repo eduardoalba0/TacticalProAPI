@@ -12,6 +12,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/EstatisticasAdversarios")
+@CrossOrigin(origins = "*")
 public class EstatisticasAdversarioController {
     @Autowired
     private EstatisticasAdversarioService estatisticasAdversarioService;
